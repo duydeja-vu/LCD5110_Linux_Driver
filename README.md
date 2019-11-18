@@ -1,1 +1,3 @@
-# LCD5110 Linux driver
+
+#Linux Driver for LCD5110
+
